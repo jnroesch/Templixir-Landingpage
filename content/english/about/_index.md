@@ -1,9 +1,8 @@
 ---
 title: "About"
-date: 2025-03-29
 meta_title: "About"
 description: "More information about why we created Templixir"
-draft: false
+
 ---
 
 

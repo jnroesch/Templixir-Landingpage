@@ -1,11 +1,3 @@
----
-title: "Home"
-date: 2025-03-29
-meta_title: "Home"
-description: "Templixir is a web-based editor that lets you bridge the gap between email developers and non-technical collaborators."
-draft: false
----
-
 # Banner
 banner:
   title: "Collaborate on Dynamic Email Templates Without the Guesswork"

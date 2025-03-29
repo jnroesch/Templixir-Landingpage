@@ -1,9 +1,7 @@
 ---
 title: "Features"
-date: 2025-03-29
 meta_title: "Features"
 description: "More information about the awesome features that Templixir provides"
-draft: false
 ---
 
 # Features That Make Email Collaboration Smoother
