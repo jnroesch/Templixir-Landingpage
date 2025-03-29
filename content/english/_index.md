@@ -1,3 +1,4 @@
+---
 # Banner
 banner:
   title: "Collaborate on Dynamic Email Templates Without the Guesswork"
