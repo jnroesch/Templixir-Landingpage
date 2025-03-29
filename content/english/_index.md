@@ -1,51 +1,57 @@
 ---
+title: "Home"
+date: 2025-03-29
+meta_title: "Home"
+description: "Templixir is a web-based editor that lets you bridge the gap between email developers and non-technical collaborators."
+draft: false
+---
+
 # Banner
 banner:
-  title: "The Ultimate Starter Template You Need To Start Your Hugo Project"
-  content: "Hugoplate is a free starter template built with Hugo and TailwindCSS, providing everything you need to jumpstart your Hugo project and save valuable time."
+  title: "Collaborate on Dynamic Email Templates Without the Guesswork"
+  content: "Templixir helps you preview, manage, and share conditional email templates — so your team stays aligned, and your content gets shipped faster."
   image: "/images/banner.png"
   button:
     enable: true
-    label: "Get Started For Free"
-    link: "https://github.com/zeon-studio/hugoplate"
+    label: "Join the Waitlist"
+    link: "/contact"
 
 # Features
 features:
-  - title: "What's Included in Hugoplate"
-    image: "/images/service-1.png"
-    content: "Hugoplate is a comprehensive starter template that includes everything you need to get started with your Hugo project. What's Included in Hugoplate"
+  - title: "Built for Collaboration and Clarity"
+    image: "/images/feature-preview.png"
+    content: "Templixir was designed to eliminate the friction between email developers and stakeholders. No more test emails or endless screenshots — just real-time previews and feedback loops that work."
     bulletpoints:
-      - "10+ Pre-build pages"
-      - "95+ Google Pagespeed Score"
-      - "Build with Hugo and TailwindCSS for easy and customizable styling"
-      - "Fully responsive on all devices"
-      - "SEO-optimized for better search engine rankings"
-      - "**Open-source and free** for personal and commercial use"
+      - "Preview email templates with condition logic in real-time"
+      - "Switch between user segments and data profiles"
+      - "No code required for reviewers or collaborators"
+      - "Shareable preview links for stakeholder review"
+      - "**Fast, clear, and built to fit your existing workflow**"
     button:
       enable: false
-      label: "Get Started Now"
-      link: "#"
+      label: ""
+      link: ""
 
-  - title: "Discover the Key Features Of Hugo"
-    image: "/images/service-2.png"
-    content: "Hugo is an all-in-one web framework for building fast, content-focused websites. It offers a range of exciting features for developers and website creators. Some of the key features are:"
+  - title: "Powerful, Yet Simple Logic Controls"
+    image: "/images/feature-conditions.png"
+    content: "Use intuitive condition toggles to show or hide parts of your email based on custom logic — like user groups, missing data points, or flags. Templixir handles the complexity so you don’t have to."
     bulletpoints:
-      - "Zero JS, by default: No JavaScript runtime overhead to slow you down."
-      - "Customizable: Tailwind, MDX, and 100+ other integrations to choose from."
-      - "UI-agnostic: Supports React, Preact, Svelte, Vue, Solid, Lit and more."
+      - "Define rules like 'show if user.group = A'"
+      - "Visualize variations instantly"
+      - "Supports custom logic syntax (e.g., Liquid, Handlebars)"
     button:
-      enable: true
-      label: "Get Started Now"
-      link: "https://github.com/zeon-studio/hugoplate"
+      enable: false
+      label: "Get Early Access"
+      link: "#signup"
 
-  - title: "The Top Reasons to Choose Hugo for Your Hugo Project"
-    image: "/images/service-3.png"
-    content: "With Hugo, you can build modern and content-focused websites without sacrificing performance or ease of use."
+  - title: "Built for Teams That Move Fast"
+    image: "/images/feature-sharing.png"
+    content: "Templixir helps you move quickly from draft to approval by giving non-technical collaborators a clear view of what's being sent — and to whom. No more back-and-forth. Just confident, approved content."
     bulletpoints:
-      - "Instantly load static sites for better user experience and SEO."
-      - "Intuitive syntax and support for popular frameworks make learning and using Hugo a breeze."
-      - "Use any front-end library or framework, or build custom components, for any project size."
-      - "Built on cutting-edge technology to keep your projects up-to-date with the latest web standards."
+      - "Send review links that simulate real user views"
+      - "Avoid misalignment and delays in QA"
+      - "Export production-ready HTML when you're done"
+      - "**Fewer mistakes, faster approvals, happier teams.**"
     button:
       enable: false
       label: ""
