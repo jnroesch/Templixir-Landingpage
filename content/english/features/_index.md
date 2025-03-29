@@ -1,7 +1,8 @@
 ---
 title: "Features"
-meta_title: "Features"
+meta_title: ""
 description: "More information about the awesome features that Templixir provides"
+draft: false
 ---
 
 # Features That Make Email Collaboration Smoother
@@ -46,4 +47,4 @@ Templixir is lightweight and review-focused. It’s built to sit between your co
 
 ---
 
-Want to see how it works? [Join the waitlist](#) and be the first to try it.
+Want to see how it works? [Join the waitlist](/contact) and be the first to try it.
