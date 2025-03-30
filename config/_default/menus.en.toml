@@ -16,6 +16,10 @@ name = "Features"
 url = "/features"
 weight = 3
 
+[[main]]
+name = "Contact"
+url = "/contact"
+weight = 4
 
 [[footer]]
 name = "Elements"
