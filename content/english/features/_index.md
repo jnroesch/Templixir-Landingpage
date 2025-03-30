@@ -47,4 +47,4 @@ Templixir is lightweight and review-focused. It’s built to sit between your co
 
 <hr>
 
-Want to see how it works? [Join the waitlist](/contact) and be the first to try it.
+Want to see how it works? Join the waitlist and be the first to try it.
