@@ -13,15 +13,8 @@
             </p>
             {{ with .button }}
               {{ if .enable }}
-                <a
-                  class="btn btn-primary"
-                  href="{{ .link | absURL }}"
-                  {{ if strings.HasPrefix .link `http` }}
-                    target="_blank" rel="noopener"
-                  {{ end }}>
-                  {{ .label }}
-                  <i class="fa fa-arrow-right pl-2"></i>
-                </a>
+              <a class="btn btn-primary" onclick="ml('show', 'IO2ILW', true)">Join the Waitlist <i class="fa fa-arrow-right pl-2"></i></a>
+                
               {{ end }}
             {{ end }}
           </div>
