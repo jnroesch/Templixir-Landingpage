@@ -7,7 +7,6 @@ banner:
   button:
     enable: true
     label: "Join the Waitlist"
-    link: "/contact"
 
 # Features
 features:
