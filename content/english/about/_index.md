@@ -6,7 +6,7 @@ description: "More information about why we created Templixir"
 ---
 
 
-# Why Templixir?
+## Why Templixir?
 
 Templixir was born out of a simple frustration: previewing and validating dynamic email templates shouldn’t be so hard.
 
@@ -16,7 +16,7 @@ We’ve been there too.
 
 ---
 
-## Making Email Collaboration Effortless
+### Making Email Collaboration Effortless
 
 Templixir is a web-based editor that lets you:
 - Write your email templates using dynamic conditions
@@ -27,7 +27,7 @@ It’s built to bridge the gap between email developers and non-technical collab
 
 ---
 
-## Our Vision
+### Our Vision
 
 We believe great email content shouldn’t be bottlenecked by technical friction. Templixir aims to streamline how teams collaborate on personalized communication — making it easier to visualize, review, and perfect your messaging.
 
