@@ -1,12 +1,12 @@
 ---
-title: "About"
-meta_title: "About"
-description: "More information about why we created Templixir"
+title: "About Templixir"
+meta_title: "About Templixir"
+description: "More information about why we created Templixir. Here you can get some insights into our backstory and motivation to learn where Templixir is headed."
 
 ---
 
 
-## Why Templixir?
+# Why we created Templixir
 
 Templixir was born out of a simple frustration: previewing and validating dynamic email templates shouldn’t be so hard.
 

@@ -1,7 +1,7 @@
 ---
-title: "About"
-meta_title: "About"
-description: "More information about why we created Templixir"
+title: "Getting started with Templixir"
+meta_title: "Getting started with Templixir"
+description: "Helpful tips to get you up to speed quickly."
 
 ---
 

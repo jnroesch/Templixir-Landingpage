@@ -1,11 +1,11 @@
 ---
-title: "Features"
+title: "Templixir Features"
 meta_title: ""
 description: "More information about the awesome features that Templixir provides"
 draft: false
 ---
 
-## Features That Make Email Collaboration Smoother
+# Features That Make Email Collaboration Smoother
 
 Templixir helps you preview, review, and share dynamic email templates without writing custom preview code or juggling endless test emails. Whether you’re a developer, marketer, or content stakeholder — Templixir keeps everyone aligned.
 
