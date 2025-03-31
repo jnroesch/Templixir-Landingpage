@@ -62,7 +62,7 @@ content = "You must replace the **baseURL** in **hugo.toml** file when deploying
 # seo module: https://github.com/gethugothemes/hugo-modules/tree/master/seo-tools/basic-seo
 [metadata]
 keywords = ["", "Hugo"]
-description = "Templixir helps you preview, manage, and share conditional email templates."
+description = "Templixir helps teams preview, manage, and share dynamic email templates with conditional logic — no screenshots, no confusion. Collaborate effortlessly and ship email content faster with real-time previews and stakeholder-friendly tools."
 author = "zeon.studio"
 twitter = "zeon_studio"
 image = "images/og-image.png"

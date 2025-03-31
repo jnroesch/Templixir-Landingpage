@@ -2,7 +2,6 @@
 title: "About Templixir"
 meta_title: "About Templixir"
 description: "More information about why we created Templixir. Here you can get some insights into our backstory and motivation to learn where Templixir is headed."
-relcanonical: "https://templixir.com/about"
 ---
 
 

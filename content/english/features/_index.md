@@ -1,7 +1,7 @@
 ---
 title: "Templixir Features"
 meta_title: ""
-description: "More information about the awesome features that Templixir provides"
+description: "Explore Templixir’s powerful features for dynamic email previewing, condition-based content control, and seamless collaboration. Share real-time views with stakeholders and streamline your email approval workflow."
 draft: false
 ---
 
