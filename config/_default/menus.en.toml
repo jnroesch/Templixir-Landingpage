@@ -32,23 +32,17 @@ name = "API Docs"
 url = "/api-documentation"
 weight = 2
  
-
 [[main]]
 name = "Contact"
 url = "/contact"
 weight = 5
 
 [[footer]]
-name = "Elements"
-url = "/elements"
-weight = 4
-
-[[footer]]
 name = "Contact"
 url = "/contact"
-weight = 2
+weight = 1
 
 [[footer]]
 name = "Privacy Policy"
 url = "/privacy-policy"
-weight = 3
+weight = 2

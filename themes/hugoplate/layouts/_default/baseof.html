@@ -14,6 +14,12 @@
     <!-- style (always cache it) -->
     {{ partialCached "essentials/style.html" . }}
 
+    {{ with .Params.relcanonical }}
+      <link rel="canonical" href="{{ . | relLangURL }}" itemprop="url" />
+    {{ else -}}
+      <link rel="canonical" href="{{ .Permalink }}" itemprop="url" />
+    {{ end -}}
+
   </head>
 
   <body>
