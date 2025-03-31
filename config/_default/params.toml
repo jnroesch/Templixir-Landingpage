@@ -61,12 +61,9 @@ content = "You must replace the **baseURL** in **hugo.toml** file when deploying
 # seo meta data for OpenGraph / Twitter Card
 # seo module: https://github.com/gethugothemes/hugo-modules/tree/master/seo-tools/basic-seo
 [metadata]
-keywords = ["", "Hugo"]
+keywords = ["email template preview", "dynamic email", "dynamic email templates", "email collaboration tool", "no-code email preview", "stakeholder review", "dynamic newsletter templates", "email review tool"]
 description = "Templixir helps teams preview, manage, and share dynamic email templates with conditional logic — no screenshots, no confusion. Collaborate effortlessly and ship email content faster with real-time previews and stakeholder-friendly tools."
-author = "zeon.studio"
-twitter = "zeon_studio"
-image = "images/og-image.png"
-
+author = "Templixir"
 
 # site verifications
 # verification module: https://github.com/gethugothemes/hugo-modules/tree/master/seo-tools/site-verifications
