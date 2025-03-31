@@ -3,9 +3,7 @@ title: "Privacy Policy"
 # meta title
 meta_title: ""
 # meta description
-description: "Privacy Policy of Templixir"
-# save as draft
-draft: false
+description: "Learn how Templixir collects, uses, and protects your personal data. Our privacy policy outlines your rights, data practices, and commitment to keeping your information safe and secure."
 ---
 
 #### Responsibility of Contributors
