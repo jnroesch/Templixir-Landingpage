@@ -17,12 +17,13 @@ We’ve been there too.
 
 ### Making Email Collaboration Effortless
 
-Templixir is a web-based editor that lets you:
-- Write your email templates using dynamic conditions
-- Preview different variations by simulating user segments or data
-- Share a live preview link with stakeholders — no code, no confusion
+Templixir is a web-based editor designed to make dynamic email collaboration seamless. It allows you to build personalized, logic-driven email templates that adapt to your audience — without the need for complex test setups or tedious review cycles.
 
-It’s built to bridge the gap between email developers and non-technical collaborators.
+You can write templates using flexible condition logic to control which content shows up for specific users or data scenarios. Then, easily preview how each variation will look by simulating different user segments, data states, or feature flags — all in real time.
+
+Once you're happy with the results, you can generate a shareable preview link that allows non-technical stakeholders to explore and approve the template themselves. No more screenshots, no more misunderstandings — just clarity, speed, and alignment.
+
+Templixir is built to bridge the gap between developers and collaborators. It empowers teams to work together on personalized email content with confidence and ease, from first draft to final sign-off.
 
 ---
 
